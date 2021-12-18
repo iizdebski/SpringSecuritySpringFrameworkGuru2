@@ -18,29 +18,29 @@
 * **CORS with Spring Security**
 
 <p align = "center">
-<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/master/image/secuity_01.JPG">
+<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/main/image/secuity_01.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/master/image/security_02.JPG">
+<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/main/image/security_02.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/master/image/security_03.JPG">
+<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/main/image/security_03.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/master/image/security_04.JPG">
+<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/main/image/security_04.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/master/image/security_05.JPG">
+<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/main/image/security_05.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/master/image/security_06.JPG">
+<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/main/image/security_06.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/master/image/security_10.JPG">
+<img src="https://github.com/iizdebski/SpringSecuritySpringFrameworkGuru2/blob/main/image/security_10.JPG">
 </p>
